@@ -1,0 +1,28 @@
+form{
+    background-color: aliceblue;
+    padding-left: 20px;
+    width:180%;
+}
+input[type=email],input[type=text],select{
+    width: 100%;
+    height: 40px;
+    color:black;
+}
+textarea{
+    width: 100%;
+}
+legend{
+    font-size: 40px;
+    text-align: center;
+}
+button {
+    background-color: aqua;
+
+    border-radius: 20px;
+    width: 130px;
+    height: 40px;
+
+
+
+
+}
